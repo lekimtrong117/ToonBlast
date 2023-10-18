@@ -86,6 +86,7 @@
     <Compile Include="Assets\_Scipt\FSM\FSM_State.cs" />
     <Compile Include="Assets\_Scipt\Dialog\Base\DialogConfig.cs" />
     <Compile Include="Assets\_Scipt\Utility\UIRootChangeScale.cs" />
+    <Compile Include="Assets\_Scipt\View\HomeView.cs" />
     <Compile Include="Assets\_Scipt\View\Base\ViewManager.cs" />
     <Compile Include="Assets\DOTween\Modules\DOTweenModulePhysics2D.cs" />
   </ItemGroup>
